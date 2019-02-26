@@ -1,0 +1,154 @@
+Subgraph ID: 2_2	17 18 
+Subgraph ID: 2_2	21 22 
+Subgraph ID: 2_2	22 23 
+Subgraph ID: 2_2	23 24 
+Subgraph ID: 2_2	24 25 
+Subgraph ID: 2_2	37 38 
+Subgraph ID: 2_2	41 42 
+Subgraph ID: 2_2	44 45 
+Subgraph ID: 2_2	50 51 
+Subgraph ID: 2_2	51 52 
+Subgraph ID: 2_2	52 53 
+Subgraph ID: 2_2	53 54 
+Subgraph ID: 2_2	57 58 
+Subgraph ID: 2_2	61 62 
+Subgraph ID: 2_2	62 63 
+Subgraph ID: 2_2	64 65 
+Subgraph ID: 2_2	68 69 
+Subgraph ID: 2_2	69 70 
+Subgraph ID: 2_2	76 77 
+Subgraph ID: 2_2	80 81 
+Subgraph ID: 2_2	81 82 
+Subgraph ID: 2_2	92 93 
+Subgraph ID: 2_2	93 94 
+Subgraph ID: 2_2	98 99 
+Subgraph ID: 2_2	103 104 
+Subgraph ID: 2_2	106 107 
+Subgraph ID: 2_2	107 108 
+Subgraph ID: 2_2	108 109 
+Subgraph ID: 2_2	109 110 
+Subgraph ID: 2_2	110 111 
+Subgraph ID: 2_2	118 119 
+Subgraph ID: 2_2	120 121 
+Subgraph ID: 2_2	121 122 
+Subgraph ID: 2_2	131 132 
+Subgraph ID: 2_2	135 136 
+Subgraph ID: 2_2	136 137 
+Subgraph ID: 2_2	138 139 
+Subgraph ID: 2_2	140 141 
+Subgraph ID: 2_2	151 152 
+Subgraph ID: 2_2	156 157 
+Subgraph ID: 2_2	157 158 
+Subgraph ID: 3_4	21 22 23 
+Subgraph ID: 3_4	22 23 24 
+Subgraph ID: 3_4	23 24 25 
+Subgraph ID: 3_5	42 43 47 
+Subgraph ID: 3_5	43 44 46 
+Subgraph ID: 3_4	50 51 52 
+Subgraph ID: 3_4	51 52 53 
+Subgraph ID: 3_4	52 53 54 
+Subgraph ID: 3_4	61 62 63 
+Subgraph ID: 3_5	63 64 66 
+Subgraph ID: 3_4	68 69 70 
+Subgraph ID: 3_4	80 81 82 
+Subgraph ID: 3_4	92 93 94 
+Subgraph ID: 3_5	102 103 105 
+Subgraph ID: 3_4	106 107 108 
+Subgraph ID: 3_4	107 108 109 
+Subgraph ID: 3_4	108 109 110 
+Subgraph ID: 3_4	109 110 111 
+Subgraph ID: 3_5	119 120 123 
+Subgraph ID: 3_4	120 121 122 
+Subgraph ID: 3_4	135 136 137 
+Subgraph ID: 3_5	139 140 142 
+Subgraph ID: 3_5	154 155 156 
+Subgraph ID: 3_4	156 157 158 
+Subgraph ID: 4_14	21 22 23 24 
+Subgraph ID: 4_14	22 23 24 25 
+Subgraph ID: 4_21	25 26 27 28 
+Subgraph ID: 4_19	36 37 39 40 
+Subgraph ID: 4_16	41 42 43 47 
+Subgraph ID: 4_16	43 44 45 46 
+Subgraph ID: 4_14	50 51 52 53 
+Subgraph ID: 4_14	51 52 53 54 
+Subgraph ID: 4_23	58 59 60 61 
+Subgraph ID: 4_16	62 63 64 66 
+Subgraph ID: 4_16	63 64 65 66 
+Subgraph ID: 4_19	99 100 101 102 
+Subgraph ID: 4_16	102 103 104 105 
+Subgraph ID: 4_19	105 106 112 113 
+Subgraph ID: 4_14	106 107 108 109 
+Subgraph ID: 4_14	107 108 109 110 
+Subgraph ID: 4_14	108 109 110 111 
+Subgraph ID: 4_16	118 119 120 123 
+Subgraph ID: 4_16	119 120 121 123 
+Subgraph ID: 4_16	138 139 140 142 
+Subgraph ID: 4_16	139 140 141 142 
+Subgraph ID: 4_16	154 155 156 157 
+Subgraph ID: 5_2	5 6 12 13 14 
+Subgraph ID: 5_96	21 22 23 24 25 
+Subgraph ID: 5_101	24 25 26 27 28 
+Subgraph ID: 5_2	35 36 41 48 68 
+Subgraph ID: 5_21	36 37 38 39 40 
+Subgraph ID: 5_9	42 43 44 46 47 
+Subgraph ID: 5_96	50 51 52 53 54 
+Subgraph ID: 5_36	57 58 59 60 61 
+Subgraph ID: 5_36	58 59 60 61 62 
+Subgraph ID: 5_62	61 62 63 64 66 
+Subgraph ID: 5_32	62 63 64 65 66 
+Subgraph ID: 5_21	98 99 100 101 102 
+Subgraph ID: 5_21	105 106 107 112 113 
+Subgraph ID: 5_96	106 107 108 109 110 
+Subgraph ID: 5_96	107 108 109 110 111 
+Subgraph ID: 5_32	118 119 120 121 123 
+Subgraph ID: 5_62	119 120 121 122 123 
+Subgraph ID: 5_32	138 139 140 141 142 
+Subgraph ID: 5_62	154 155 156 157 158 
+Subgraph ID: 6_253	6 7 8 9 10 11 
+Subgraph ID: 6_463	23 24 25 26 27 28 
+Subgraph ID: 6_44	35 36 41 42 48 68 
+Subgraph ID: 6_44	35 36 41 48 68 69 
+Subgraph ID: 6_57	41 42 43 44 46 47 
+Subgraph ID: 6_57	42 43 44 45 46 47 
+Subgraph ID: 6_117	57 58 59 60 61 62 
+Subgraph ID: 6_247	58 59 60 61 62 63 
+Subgraph ID: 6_263	61 62 63 64 65 66 
+Subgraph ID: 6_16	99 100 101 102 103 105 
+Subgraph ID: 6_16	102 103 105 106 112 113 
+Subgraph ID: 6_245	105 106 107 108 112 113 
+Subgraph ID: 6_460	106 107 108 109 110 111 
+Subgraph ID: 6_263	118 119 120 121 122 123 
+Subgraph ID: 7_2293	22 23 24 25 26 27 28 
+Subgraph ID: 7_119	35 36 41 42 48 68 69 
+Subgraph ID: 7_935	35 36 41 48 68 69 70 
+Subgraph ID: 7_222	41 42 43 44 45 46 47 
+Subgraph ID: 7_2389	48 49 50 55 56 57 67 
+Subgraph ID: 7_1033	57 58 59 60 61 62 63 
+Subgraph ID: 7_290	98 99 100 101 102 103 105 
+Subgraph ID: 7_2468	99 100 101 102 103 104 105 
+Subgraph ID: 7_2468	102 103 104 105 106 112 113 
+Subgraph ID: 7_290	102 103 105 106 107 112 113 
+Subgraph ID: 7_1693	105 106 107 108 109 112 113 
+Subgraph ID: 8_11779	21 22 23 24 25 26 27 28 
+Subgraph ID: 8_19	35 36 37 39 40 41 48 68 
+Subgraph ID: 8_1517	35 36 41 42 43 47 48 68 
+Subgraph ID: 8_3246	35 36 41 42 48 68 69 70 
+Subgraph ID: 8_64	48 49 50 51 55 56 57 67 
+Subgraph ID: 8_64	48 49 50 55 56 57 58 67 
+Subgraph ID: 8_6896	58 59 60 61 62 63 64 66 
+Subgraph ID: 8_721	98 99 100 101 102 103 104 105 
+Subgraph ID: 8_721	102 103 104 105 106 107 112 113 
+Subgraph ID: 8_4299	102 103 105 106 107 108 112 113 
+Subgraph ID: 8_10567	105 106 107 108 109 110 112 113 
+Subgraph ID: 9_217	35 36 37 38 39 40 41 48 68 
+Subgraph ID: 9_41534	35 36 37 39 40 41 42 48 68 
+Subgraph ID: 9_43854	35 36 37 39 40 41 48 68 69 
+Subgraph ID: 9_1061	35 36 41 42 43 47 48 68 69 
+Subgraph ID: 9_3965	48 49 50 51 52 55 56 57 67 
+Subgraph ID: 9_42048	48 49 50 51 55 56 57 58 67 
+Subgraph ID: 9_14694	57 58 59 60 61 62 63 64 66 
+Subgraph ID: 9_15767	58 59 60 61 62 63 64 65 66 
+Subgraph ID: 9_43596	99 100 101 102 103 105 106 112 113 
+Subgraph ID: 9_7076	102 103 104 105 106 107 108 112 113 
+Subgraph ID: 9_19638	102 103 105 106 107 108 109 112 113 
+Subgraph ID: 9_35357	105 106 107 108 109 110 111 112 113 

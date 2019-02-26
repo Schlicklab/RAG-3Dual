@@ -1,0 +1,21 @@
+Subgraph ID: 2_1	0 1 
+Subgraph ID: 2_2	1 2 
+Subgraph ID: 2_2	2 3 
+Subgraph ID: 2_2	3 4 
+Subgraph ID: 2_2	6 7 
+Subgraph ID: 3_2	0 1 2 
+Subgraph ID: 3_4	1 2 3 
+Subgraph ID: 3_4	2 3 4 
+Subgraph ID: 4_8	0 1 2 3 
+Subgraph ID: 4_14	1 2 3 4 
+Subgraph ID: 4_19	4 5 6 8 
+Subgraph ID: 5_78	0 1 2 3 4 
+Subgraph ID: 5_21	3 4 5 6 8 
+Subgraph ID: 5_21	4 5 6 7 8 
+Subgraph ID: 6_245	2 3 4 5 6 8 
+Subgraph ID: 6_91	3 4 5 6 7 8 
+Subgraph ID: 7_1693	1 2 3 4 5 6 8 
+Subgraph ID: 7_1031	2 3 4 5 6 7 8 
+Subgraph ID: 8_8291	0 1 2 3 4 5 6 8 
+Subgraph ID: 8_7748	1 2 3 4 5 6 7 8 
+Subgraph ID: 9_20790	0 1 2 3 4 5 6 7 8 

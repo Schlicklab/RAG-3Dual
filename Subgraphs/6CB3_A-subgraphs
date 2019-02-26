@@ -1,0 +1,6 @@
+Subgraph ID: 2_2	0 1 
+Subgraph ID: 2_2	3 4 
+Subgraph ID: 4_19	1 2 3 5 
+Subgraph ID: 5_21	0 1 2 3 5 
+Subgraph ID: 5_21	1 2 3 4 5 
+Subgraph ID: 6_91	0 1 2 3 4 5 
